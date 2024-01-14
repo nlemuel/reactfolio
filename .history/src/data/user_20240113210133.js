@@ -1,9 +1,9 @@
 const INFO = {
 	main: {
-		title: "Reactfolio",
+		title: "Reactfolio by truethari",
 		name: "Nicolas Lemuel",
 		email: "lemuelayres@gmail.com",
-		logo: "../nanamin.jpg",
+		logo: "../logo.png",
 	},
 
 	socials: {
@@ -44,7 +44,7 @@ const INFO = {
 			title: "App Masters",
 			description:
 				"Teste técnico desenvolvido para a empresa App Masters",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/nlemuel/games-front-test",
 		},
@@ -53,7 +53,7 @@ const INFO = {
 			title: "API Iacit",
 			description:
 				"Projeto realizado na faculdade com parceria da empresa Iacit. Nosso time resolveu um problema real da empresa utilizando React Native, Node.JS e a metodologia ágil Scrum.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/PowerTech5API/iacity",
 		},

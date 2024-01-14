@@ -47,7 +47,7 @@ const Contact = () => {
 						Obrigado pelo seu interesse em entrar em contato comigo. 
 						Agradeço seus comentários, perguntas e sugestões. 
 						Se você tiver uma pergunta ou comentário específico, 
-						sinta-se à vontade para entrar em contato comigo através do Twitter, LinkedIn ou enviar um e-mail diretamente para
+						sinta-se à vontade para entrar em contato comigo ou enviar um e-mail diretamente para
 							&nbsp;{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}

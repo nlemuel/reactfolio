@@ -49,7 +49,7 @@
 
 .homepage-image-wrapper img {
 	width: 100%;
-	height: 410px
+	height: 20%
 }
 
 .homepage-socials {
@@ -72,7 +72,6 @@
 
 .homepage-after-title {
 	display: flex;
-	justify-content: center;
 }
 
 .homepage-projects {
@@ -93,7 +92,6 @@
 .homepage-works {
 	flex-basis: 600px;
 	padding-top: 30px;
-	
 }
 
 @media (max-width: 1024px) {

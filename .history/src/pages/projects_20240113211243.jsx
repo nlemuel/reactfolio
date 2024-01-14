@@ -47,8 +47,8 @@ const Projects = () => {
 							Reconheço que já ultrapassei muitas barreiras e que ainda existem muitas outras para serem ultrapassadas, 
 							como pode ser observado nos defeitos presentes nos projetos, 
 							estou buscando por mais conhecimento através dos mais sábios na área. 
-							"Ouça conselhos e aceite instruções, e acabará sendo sábio."
-							Provérbios 19:20
+							"Ouça conselhos e aceite instruções, e acabará sendo sábio.
+							Provérbios 19:20"
 						</div>
 
 						<div className="projects-list">

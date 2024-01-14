@@ -30,7 +30,7 @@ const SEO = [
 	{
 		page: "contact",
 		description:
-			"Obrigado pelo seu interesse em entrar em contato comigo. Agradeço seus comentários, perguntas e sugestões.",
+			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
 		keywords: ["Nicolas", "Nicolas L", "Nicolas Lemuel"],
 	},
 ];

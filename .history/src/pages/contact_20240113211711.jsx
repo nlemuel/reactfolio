@@ -44,10 +44,10 @@ const Contact = () => {
 						</div>
 
 						<div className="subtitle contact-subtitle">
-						Obrigado pelo seu interesse em entrar em contato comigo. 
-						Agradeço seus comentários, perguntas e sugestões. 
-						Se você tiver uma pergunta ou comentário específico, 
-						sinta-se à vontade para entrar em contato comigo através do Twitter, LinkedIn ou enviar um e-mail diretamente para
+							Thank you for your interest in getting in touch with
+							me. I welcome your feedback, questions, and
+							suggestions. If you have a specific question or
+							comment, please feel free to email me directly at
 							&nbsp;{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}

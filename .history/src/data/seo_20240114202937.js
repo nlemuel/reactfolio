@@ -23,14 +23,14 @@ const SEO = [
 	{
 		page: "projects",
 		description:
-			"Pequenos projetos realizados com o intuito de aplicar os conceitos aprendidos.",
+			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
 		keywords: ["Nicolas", "Nicolas L", "Nicolas Lemuel"],
 	},
 
 	{
 		page: "contact",
 		description:
-			"Obrigado pelo seu interesse em entrar em contato comigo. Agradeço seus comentários, perguntas e sugestões.",
+			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
 		keywords: ["Nicolas", "Nicolas L", "Nicolas Lemuel"],
 	},
 ];

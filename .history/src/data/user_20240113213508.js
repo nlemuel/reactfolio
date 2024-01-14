@@ -3,7 +3,7 @@ const INFO = {
 		title: "Reactfolio",
 		name: "Nicolas Lemuel",
 		email: "lemuelayres@gmail.com",
-		logo: "../nanamin.jpg",
+		logo: "../logo.png",
 	},
 
 	socials: {

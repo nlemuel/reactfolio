@@ -1,9 +1,9 @@
 const INFO = {
 	main: {
-		title: "Reactfolio",
+		title: "Reactfolio by truethari",
 		name: "Nicolas Lemuel",
 		email: "lemuelayres@gmail.com",
-		logo: "../nanamin.jpg",
+		logo: "../logo.png",
 	},
 
 	socials: {

@@ -1,15 +1,18 @@
 const INFO = {
 	main: {
-		title: "Reactfolio",
-		name: "Nicolas Lemuel",
-		email: "lemuelayres@gmail.com",
-		logo: "../nanamin.jpg",
+		title: "Reactfolio by truethari",
+		name: "Tharindu N.",
+		email: "mail@tharindu.dev",
+		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/nlim_a",
-		github: "https://github.com/nlemuel",
-		linkedin: "https://www.linkedin.com/in/nicolas-de-lima-23137718b/",
+		twitter: "https://twitter.com/",
+		github: "https://github.com/",
+		linkedin: "https://linkedin.com/",
+		instagram: "https://instagram.com/",
+		stackoverflow: "https://stackoverflow.com/",
+		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
@@ -44,7 +47,7 @@ const INFO = {
 			title: "App Masters",
 			description:
 				"Teste técnico desenvolvido para a empresa App Masters",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/nlemuel/games-front-test",
 		},
@@ -53,7 +56,7 @@ const INFO = {
 			title: "API Iacit",
 			description:
 				"Projeto realizado na faculdade com parceria da empresa Iacit. Nosso time resolveu um problema real da empresa utilizando React Native, Node.JS e a metodologia ágil Scrum.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
 			link: "https://github.com/PowerTech5API/iacity",
 		},
